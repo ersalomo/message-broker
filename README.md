@@ -3,7 +3,7 @@
 
 ### Message broker is a component that our system, service, and app can communicate with each other and share their information.
 
-- message broker model
-- - point to point messaging
-  - publish or subscribe messaging
+#### message broker model
+- point to point messaging
+- publish or subscribe messaging
 
